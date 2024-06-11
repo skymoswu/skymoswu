@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @skymoswu
 - 👀 I’m interested in Bioinformatics, I'm a Python/R/Perl/LaTeX user...
-- 🌱 I’m currently learning Haskell/Rust
+- 🌱 I’m currently learning Haskell/Common Lisp
 
 
 <!---
